@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffffffff;
+}
+
+.section1{
+    margin-top: 4em;
+    text-align: center;
+
+}
+
+.sec1h1{
+   font-size: 48px;
+   font-weight: 900;
+   font-family: Muli, sans-serif;
+   line-height: 50px;
+   color: #40196d; 
+   padding-bottom: 0.5em;
+}
+
+.sec1p{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Muli, sans-serif;
+    line-height: 30px;
+    color: #000000;
+}
+
+/* END OF SECTION 1
+    ================
+    ================
+    ================ */
+
+    .section2{
+        margin-top: 8em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6em;
+
+    }
+
+    .sec2h2{
+        font-size: 36px;
+        font-weight: 900;
+        line-height: 50px;
+        font-family: Muli, sans-serif;
+        color: #40196d;
+        padding-bottom: 0.4em;
+    }
+
+    .sec2right ul li{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: Muli, sans-serif;
+        line-height: 32px;
+        color: #000000;
+    }
+
+    /* END OF SECTION 2
+    ================
+    ================
+    ================ */
+
+    .section3{
+        margin-top: 5em;
+    }
+
+    .container3{
+        margin: 4em 22em;
+        /* padding-left: 4em; */
+    
+    }
+
+    .sec3h3{
+        font-size: 24px;
+        font-weight: 900;
+        color: #40196dff;
+        line-height: 24px;
+        font-family: Muli, sans-serif;
+        margin-bottom: 1em;
+        margin-top: 2em;
+    }
+
+    .sec3p{
+       font-size: 17px;
+       font-weight: 400;
+       font-family: Muli, sans-serif;
+       line-height: 25px;
+       color: #616161ff; 
+    }
+
+    .sec3list{
+        font-size: 20px;
+        font-weight: 800;
+        font-family: Muli, sans-serif;
+        line-height: 28px;
+        color: #000000ff;
+        margin-top: 1em;
+        margin-bottom: 0.5em;
+    }
+
+    .socialmediacon{
+        display: flex;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .linksec3{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        color: #40196d;
+        font-family: Muli, sans-serif;
+        text-decoration: none;
+    }
+
+    .section4{
+        margin-top: 8em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6em;
+    }
+
+    .section4 ul li{
+       font-size: 16px;
+       font-weight: 400;
+       font-family: Muli, sans-serif;
+       line-height: 26px;
+       color: #000000; 
+    }
+
+    .section5{
+        margin-top: 8em;
+        margin: 8em;
+        text-align: center;
+    }
+
+    .section6{
+        margin-top: 8em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6em;
+    }
+
+    .section6 ol li{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: Muli, sans-serif;
+        line-height: 26px;
+        color: #000000; 
+    }
+
+    .section7{
+        margin-top: 8em;
+        text-align: center;
+    }
+
+    footer{
+        margin: 15em 8em;
+        box-shadow: 0 0 5px rgba(  0, 0.9);
+    }
+
+    .footercontainer{
+        display: flex;
+        gap: 8em;
+        justify-content: space-between;
+    }
+
+    .footerh4{
+        font-size: 14px;
+        font-weight: 700;
+        font-family: Muli, Sans-serif;
+        line-height: 21px;
+        color: #40196d;
+    }
+
+    footer ul li{
+        font-size: 12px;
+        font-weight: 400;
+        font-family: Muli, sans-serif;
+        color: #000000;
+        line-height: 40px;
+        list-style-type: none;
+    }
+
+    .footercontainer2{
+        margin-top: 5em;
+        display: flex;
+        gap: 1em;
+    }
+
+    .footersec3{
+        margin-top: 4em;
+    }
+    .footersec3con{
+        margin-top: 4em;
+        display: flex;
+        gap: 12em;
+        justify-content: first baseline;
+    }
+
+    .p-footersec3{
+        font-size: 12px;
+        font-weight: 400;
+        font-family: Muli, sans-serif;
+        color: #000000;
+        line-height: 40px;
+        list-style-type: none;
+    }
+
+    
+    .footersec4{
+        margin-top: 6em;
+    }
+    .psec4footer{
+        color: #979797;
+        font-size: 11px;
+        line-height: 17px;
+        font-weight: 400;
+        font-family: Muli, sans-serif;
+    }
+
+
+
